@@ -10,5 +10,7 @@ public class Main {
         new Black();
         new Green();
         new Red();
+        // this is new code to check
+        // added new comments
     }
 }
