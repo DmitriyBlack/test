@@ -11,5 +11,6 @@ public class Main {
         new Green();
         new Red();
         // this is new code to check
+        // added new comments
     }
 }
